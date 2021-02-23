@@ -106,7 +106,7 @@ enum RemoteButton {
     //% block=8
     NUM8 = 0x15,
     //% block=9
-    NUM9 = 0xD9,
+    NUM9 = 0x09,
 }
 
 
